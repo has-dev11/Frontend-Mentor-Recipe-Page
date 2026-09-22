@@ -171,5 +171,6 @@ tr:not(tr:last-of-type) {
     .container {
         border-radius: 0.5rem;
         overflow: hidden;
+        width: 40%;
     }
 }
