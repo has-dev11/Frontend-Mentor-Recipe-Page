@@ -1,0 +1,10 @@
+@font-face {
+    font-family: "Young-serif";
+    src: url("../assets/fonts/young-serif/YoungSerif-Regular.ttf") format("truetype");
+    weight: 400;
+}
+@font-face {
+    font-family: "Outfit";
+    src: url("../assets/fonts/outfit/Outfit-VariableFont_wght.ttf");
+    weight: 100 900;
+}
