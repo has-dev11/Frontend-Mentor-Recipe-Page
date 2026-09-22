@@ -23,8 +23,10 @@
 body {
     background-color: var(--Stone-100);
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
+    gap: 1rem;
 }
 
 .container {
@@ -166,7 +168,7 @@ tr:not(tr:last-of-type) {
 
 @media screen and (min-width: 350px) {
     body {
-        padding: 20vh;
+        padding: 30vh 0;
     }    
     .container {
         border-radius: 0.5rem;
